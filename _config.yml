@@ -133,17 +133,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#1B2430"  /* Dark Navy Blue */
-navbar-text-col: "#EAEAEA"  /* Light Gray */
-navbar-border-col: "#333333"  /* Charcoal Gray */
-page-col: "#282C34"  /* Dark Gray */
-text-col: "#EAEAEA"  /* Light Gray */
-link-col: "#ADD8E6"  /* Light Blue */
-hover-col: "#87CEEB"  /* Sky Blue */
-footer-col: "#1B2430"  /* Dark Navy Blue */
-footer-text-col: "#BDBDBD"  /* Light Gray (Slightly Dimmer) */
-footer-link-col: "#EAEAEA"  /* Light Gray */
-footer-hover-col: "#ADD8E6"  /* Light Blue */
+navbar-col: "#1B2430"  #/* Dark Navy Blue */
+navbar-text-col: "#EAEAEA"  #/* Light Gray */
+navbar-border-col: "#333333"  #/* Charcoal Gray */
+page-col: "#282C34"  #/* Dark Gray */
+text-col: "#EAEAEA"  #/* Light Gray */
+link-col: "#ADD8E6"  #/* Light Blue */
+hover-col: "#87CEEB"  #/* Sky Blue */
+footer-col: "#1B2430"  #/* Dark Navy Blue */
+footer-text-col: "#BDBDBD"  #/* Light Gray (Slightly Dimmer) */
+footer-link-col: "#EAEAEA"  #/* Light Gray */
+footer-hover-col: "#ADD8E6"  #/* Light Blue */
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
